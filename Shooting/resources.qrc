@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>shooting-1982-2023-semicolon.csv</file>
+        <file>persian-red-map-marker-2-icon-google-map-marker-gif-heart-alphabet-text-path-transparent-png-2746621.png</file>
+    </qresource>
+</RCC>
